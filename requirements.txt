@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+httpx
+yt-dlp
+shutil
+asyncio
